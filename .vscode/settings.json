@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "appit",
+        "stylelint",
+        "tailwindcss"
+    ],
+    // recommeded by tailwindcss extension
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [100],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.organizeImports": false
+    }
+  }
